@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://truee-kim/truee-kim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-favicon                  : assets/built/images/favicon.ico # favicon으로 사용할 image
+favicon                  : assets/images/favicon.ico # favicon으로 사용할 image
 masthead_title           : "truee's page" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true #, false (default)
 words_per_minute         : 200
