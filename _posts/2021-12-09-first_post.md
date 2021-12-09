@@ -1,5 +1,5 @@
 ---
-title:  "[Jekyll] 블로그 포스팅을 해보자"
+title:  "[Blog#1] 블로그 포스팅을 해보자"
 excerpt: "마크다운으로 깃허브 블로그 업로드를 해보자"
 
 categories:
